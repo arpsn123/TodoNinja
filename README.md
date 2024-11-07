@@ -1,4 +1,16 @@
 # Todo List Application
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/TodoNinja?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/TodoNinja?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/TodoNinja)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/TodoNinja)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/TodoNinja)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/TodoNinja)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/TodoNinja)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/TodoNinja)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/TodoNinja)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/TodoNinja?style=social)
+![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
+
 
 This project is a simple yet functional **Todo List Application** built with **Node.js** and **Express**, leveraging **PostgreSQL** as the database and **Sequelize** ORM for managing database interactions. It showcases basic CRUD (Create, Read, Update, Delete) operations for managing a list of todos, with a minimalistic front-end powered by **EJS** templating.
 
@@ -11,6 +23,14 @@ This project is a simple yet functional **Todo List Application** built with **N
 - **Responsive Templating with EJS**: The application dynamically renders views using the **EJS** templating engine.
 
 ## Technologies Used
+![Node.js](https://img.shields.io/badge/Node.js-v16%2B-brightgreen)
+![Express.js](https://img.shields.io/badge/Express.js-v4.17.1-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v13.3-blue)
+![Sequelize](https://img.shields.io/badge/Sequelize-v6.6.5-blue)
+![EJS](https://img.shields.io/badge/EJS-v3.1.6-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-5.0-blue)
+![CSS3](https://img.shields.io/badge/CSS3-3.0-blue)
+
 
 - **Node.js**: Backend server for handling HTTP requests and defining routes.
 - **Express.js**: Lightweight framework for building the backend API.
